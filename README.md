@@ -8,7 +8,6 @@ La idea principal del trabajo ha sido aprender a utilizar estas herramientas cor
 
 Además, he usado GitHub para guardar y presentar todo el trabajo realizado, incluyendo explicaciones y capturas de pantalla de el procesos.
 
----
 
 ## 2. Herramientas de Google utilizadas
 
@@ -24,7 +23,6 @@ Las principales herramientas que he utilizado son:
 
 Estas herramientas me han permitido organizar toda la información desde diferentes aplicaciones y tener el viaje preparado de una forma más clara.
 
----
 
 ## 3. Configuración y organización de Gmail
 
@@ -68,7 +66,6 @@ Una vez configurada, he comprobado que la respuesta automática funciona correct
 
 ![Respuesta automática](imagenes/respuesta-automatica.png)
 
----
 
 ## 4. Configuración IMAP y comprobación del correo electrónico
 
@@ -98,7 +95,6 @@ El proceso que he seguido ha sido el siguiente:
 
 ![Prueba de correos](imagenes/prueba-correos.png)
 
----
 
 ## 5. Comprobación de seguridad: SPF, DKIM y DMARC
 
@@ -122,7 +118,6 @@ Esto significa que las comprobaciones de SPF, DKIM y DMARC han sido satisfactori
 
 ![SPF DKIM DMARC](imagenes/seguridad-correo.png)
 
----
 
 ## 6. Organización de un viaje a Tenerife
 
@@ -171,7 +166,7 @@ Esta búsqueda me ha permitido comparar precios y valoraciones antes de elegir u
 
 ![Hotel seleccionado](imagenes/hotel.png)
 
----
+
 
 ## 7. Elaboración del presupuesto con Google Sheets
 
