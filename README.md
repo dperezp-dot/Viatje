@@ -55,7 +55,7 @@ De esta manera, puedo tener los correos mejor organizados y evitar que todos los
 
 **Captura de pantalla de las etiquetas:**
 
-![Etiquetas de Gmail](imagenes/etiquetas.png)
+Captura de pantalla de 2026-11-26 09-07-32.png
 
 ### 3.2. Creación de filtros
 
