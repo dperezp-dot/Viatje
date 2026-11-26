@@ -1,5 +1,7 @@
 # PROYECTO: CONFIGURACIÓN DE GMAIL Y ORGANIZACIÓN DE UN VIAJE A TENERIFE
 
+<img width="594" height="336" alt="imatge" src="https://github.com/user-attachments/assets/72fe3406-42e6-420d-af6b-0719c0f814e6" />
+
 ## 1. Introducción
 
 En este proyecto he trabajado con diferentes herramientas de Google para aprender a utilizarlas de una manera práctica. Durante las actividades he tenido que configurar mi cuenta de Gmail, organizar los correos electrónicos, hacer diferentes comprobaciones de seguridad y preparar un viaje utilizando varias aplicaciones.
@@ -16,10 +18,25 @@ Durante el proyecto he utilizado varias herramientas de Google. Cada una tiene u
 Las principales herramientas que he utilizado son:
 
 - **Gmail:** para enviar, recibir y organizar correos electrónicos.
+
+- <img width="501" height="399" alt="imatge" src="https://github.com/user-attachments/assets/65a0f93a-a174-4a6b-bbaa-91d51d867279" />
+
 - **Google Maps:** para consultar rutas y calcular desplazamientos.
+
+- <img width="225" height="225" alt="imatge" src="https://github.com/user-attachments/assets/97d52a1c-c7ba-4154-935c-f0fe2cc1fb2a" />
+
 - **Google Sheets:** para preparar y controlar el presupuesto del viaje.
+
+- <img width="467" height="428" alt="imatge" src="https://github.com/user-attachments/assets/233a06e1-31d9-47dd-9e0f-f1a09c6c219c" />
+
 - **Google Calendar:** para organizar las actividades y los días del viaje.
+  
+- <img width="447" height="447" alt="imatge" src="https://github.com/user-attachments/assets/7506cc13-2b1a-4f04-9c89-3d75460b959f" />
+
 - **Google Hotels:** para buscar hoteles, comparar precios y consultar valoraciones.
+- 
+- <img width="200" height="200" alt="imatge" src="https://github.com/user-attachments/assets/8827a165-1324-4eb4-ae05-9b96d74a4b45" />
+
 
 Estas herramientas me han permitido organizar toda la información desde diferentes aplicaciones y tener el viaje preparado de una forma más clara.
 
