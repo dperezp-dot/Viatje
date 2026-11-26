@@ -67,7 +67,7 @@ He creado estos filtros para ahorrar tiempo y conseguir que los mensajes estén 
 
 **Captura de pantalla de los filtros:**
 
-![Filtros de Gmail](imagenes/filtros.png)
+Captura de pantalla de 2026-11-26 09-07-32.png
 
 ### 3.3. Configuración de la respuesta automática
 
