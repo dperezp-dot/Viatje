@@ -61,11 +61,11 @@ De esta manera, puedo tener los correos mejor organizados y evitar que todos los
 
 Después he creado cinco filtros en  el Gmail.
 
-Los filtros sirven para aplicar determinadas acciones automáticamente cuando recibo un correo que cumple unas condiciones. Por ejemplo, puedo organizar mensajes según palabras que aparecen en el asunto o con otras características del correo.
+Los filtros sirven para aplicar algunas cosas automáticamente cuando recibo un correo que cumple una serie de condiciciones las cuales son,Por ejemplo, puedo organizar mensajes según palabras que aparecen en el asunto o con otras características del correo.
 
 Estos filtros ayudan para ahorrar tiempo y conseguir que los mensajes estén mejor clasificados sin tener que hacerlo todo manualmente.
 
-**Captura de pantalla de los filtros:**
+<img width="1818" height="997" alt="imatge" src="https://github.com/user-attachments/assets/094fa923-fd7f-4e63-8723-bc3bb2d22b87" />
 
 Captura de pantalla de 2026-11-26 09-07-32.png
 
