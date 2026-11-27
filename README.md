@@ -54,6 +54,7 @@ Las etiquetas  separan los mensajes por categorías para encontrarlos más fáci
 De esta manera, puedo tener los correos mejor organizados y evitar que todos los mensajes estén mezclados en la bandeja de entrada.
 
 <img width="232" height="252" alt="imatge" src="https://github.com/user-attachments/assets/9067312c-e045-4ebb-9b42-f7129212482b" />
+ Aqui una foto de las etiquetas en gmail.
 
 ![Etiquetas de Gmail](nombre-de-tu-foto.png)
 
@@ -67,7 +68,7 @@ Estos filtros ayudan para ahorrar tiempo y conseguir que los mensajes estén mej
 
 <img width="1818" height="997" alt="imatge" src="https://github.com/user-attachments/assets/094fa923-fd7f-4e63-8723-bc3bb2d22b87" />
 
-Captura de pantalla de 2026-11-26 09-07-32.png
+Aqui la imagen de todos los filtros configurados
 
 ### 3.3. Configuración de la respuesta automática
 
@@ -79,7 +80,8 @@ He utilizado un mensaje sencillo para informar de que he recibido el correo y qu
 
 Una vez configurada, he comprobado que la respuesta automática funciona correctamente.
 
-**Captura de pantalla de la respuesta automática:**
+<img width="1818" height="997" alt="imatge" src="https://github.com/user-attachments/assets/2d2cef28-e802-4cbf-a884-da3e348fd9e6" />
+Aqui como podemos ver tenemos la captura la cual se puede ver que la configuracion de la respuesta automatica esta puesta.
 
 ![Respuesta automática](imagenes/respuesta-automatica.png)
 
