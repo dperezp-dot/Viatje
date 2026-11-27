@@ -6,9 +6,9 @@
 
 En este proyecto he trabajado con diferentes herramientas de Google para aprender a utilizarlas de una manera práctica. Durante las actividades he tenido que configurar mi cuenta de Gmail, organizar los correos electrónicos, hacer diferentes comprobaciones de seguridad y preparar un viaje utilizando varias aplicaciones.
 
-La idea principal del trabajo ha sido aprender a utilizar estas herramientas correctamente y entender para qué sirve cada una de ellas. No solamente he realizado las configuraciones, sino que también he comprobado que funcionan mediante diferentes pruebas.
+La idea principal del trabajo ha sido aprender a utilizar estas herramientas bien y entender para qué sirve cada una de ellas. No solamente he realizado las configuraciones, sino que también he comprobado que funcionan con diferentes pruebas.
 
-Además, he usado GitHub para guardar y presentar todo el trabajo realizado, incluyendo explicaciones y capturas de pantalla de el procesos.
+Además, he usado GitHub ( este) para guardar y presentar todo el trabajo realizado, incluyendo explicaciones y capturas de pantalla de el procesos.
 
 
 ## 2. Herramientas de Google utilizadas
@@ -38,32 +38,32 @@ Las principales herramientas que he utilizado son:
 - <img width="200" height="200" alt="imatge" src="https://github.com/user-attachments/assets/8827a165-1324-4eb4-ae05-9b96d74a4b45" />
 
 
-Estas herramientas me han permitido organizar toda la información desde diferentes aplicaciones y tener el viaje preparado de una forma más clara.
+Estas herramientas me han ayudado organizar toda la información desde otras aplicaciones y tener el viaje preparado de una forma más clara.
 
 
 ## 3. Configuración y organización de Gmail
 
-En esta parte del proyecto he trabajado con Gmail. El objetivo ha sido aprender a organizar mejor los mensajes y configurar diferentes opciones para facilitar el uso del correo electrónico.
+En esta parte del proyecto he trabajado con Gmail. El objetivo de esto ha sido aprender a organizar mejor los mensajes y configurar diferentes opciones para facilitar el uso del correo electrónico.
 
 ### 3.1. Creación de etiquetas
 
 Primero he creado diferentes etiquetas dentro de Gmail para clasificar los correos electrónicos según su contenido.
 
-Las etiquetas permiten separar los mensajes por categorías y encontrarlos más fácilmente. También he personalizado sus colores para poder identificarlas de un vistazo.
+Las etiquetas  separan los mensajes por categorías para encontrarlos más fácil. También le he puesto colores para poder identificarlas .
 
 De esta manera, puedo tener los correos mejor organizados y evitar que todos los mensajes estén mezclados en la bandeja de entrada.
 
-**Captura de pantalla de las etiquetas:**
+<img width="232" height="252" alt="imatge" src="https://github.com/user-attachments/assets/9067312c-e045-4ebb-9b42-f7129212482b" />
 
 ![Etiquetas de Gmail](nombre-de-tu-foto.png)
 
 ### 3.2. Creación de filtros
 
-Después he creado cinco filtros en Gmail.
+Después he creado cinco filtros en  el Gmail.
 
-Los filtros sirven para aplicar determinadas acciones automáticamente cuando recibo un correo que cumple unas condiciones. Por ejemplo, puedo organizar mensajes según palabras que aparecen en el asunto o según otras características del correo.
+Los filtros sirven para aplicar determinadas acciones automáticamente cuando recibo un correo que cumple unas condiciones. Por ejemplo, puedo organizar mensajes según palabras que aparecen en el asunto o con otras características del correo.
 
-He creado estos filtros para ahorrar tiempo y conseguir que los mensajes estén mejor clasificados sin tener que hacerlo todo manualmente.
+Estos filtros ayudan para ahorrar tiempo y conseguir que los mensajes estén mejor clasificados sin tener que hacerlo todo manualmente.
 
 **Captura de pantalla de los filtros:**
 
